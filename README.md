@@ -1,7 +1,9 @@
 **Venkateswara Reddy Lingareddygari**
 
 **Email:** lingareddygari7777@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/venkatesh7777/
+
 **Mobile:** +1 469 739 7434
 
 **SUMMARY**
