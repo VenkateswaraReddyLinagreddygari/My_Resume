@@ -1,7 +1,9 @@
 **Venkateswara Reddy Lingareddygari**
 
 **Email:** lingareddygari7777@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/venkatesh7777/
+
 **Mobile:** +1 469 739 7434
 
 **SUMMARY**
@@ -24,8 +26,11 @@ analysis, Factor analysis, Sentiment analysis, Text analysis, Data cleansing, Da
 • Microsoft Office suite: Microsoft Excel, PowerPoint, OneNote, Outlook, Access, Word, SharePoint
 
 **CERTIFICATIONS**
+
 **Microsoft Certified:** Power BI Data Analyst Associate
+
 **Oracle Certified:** Oracle Cloud Infrastructure 2024 Generative AI Professional
+
 **Infosys Certified:** Software Programmer in Python
 
 **ACHIEVEMENTS**
