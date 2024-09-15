@@ -1,13 +1,16 @@
-Venkateswara Reddy Lingareddygari
-Email: lingareddygari7777@gmail.com
-LinkedIn: https://www.linkedin.com/in/venkatesh7777/
-Mobile: +1 469 739 7434
-SUMMARY
+**Venkateswara Reddy Lingareddygari**
+
+**Email:** lingareddygari7777@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/venkatesh7777/
+**Mobile:** +1 469 739 7434
+
+**SUMMARY**
 Business and Data Analyst with 3+ years of experience in business requirements mapping, data structure analysis, and data model
 design. Proven ability to develop and optimize data transformation processes using advanced data management and visualization tools
 such as Tableau, Power BI, and SQL. Skilled in creating actionable business insights through effective collaboration with cross-functional
 teams. Seeking to leverage analytical expertise to drive informed decision-making and optimize performance outcomes.
-TECHNICAL SKILLS
+
+**TECHNICAL SKILLS**
 • Programming Languages: C, Python, R Programming, M Language (M-Code)
 • Query Languages : SQL, CQL, PLSQL, TSQL, MYSQL, GraphQL
 • Data Analysis Tools: Excel (Pivot tables, VLOOKUP), Power BI, Tableau, Looker, Project Jupyter
@@ -19,23 +22,28 @@ NoSQL, RDBMS, NoSQL DBMS
 processing (NLP), Neural network, Data analysis, Data mining, Supervised learning, Support Vector Machine, Descriptive
 analysis, Factor analysis, Sentiment analysis, Text analysis, Data cleansing, Data collection
 • Microsoft Office suite: Microsoft Excel, PowerPoint, OneNote, Outlook, Access, Word, SharePoint
-CERTIFICATIONS
-Microsoft Certified: Power BI Data Analyst Associate
-Oracle Certified: Oracle Cloud Infrastructure 2024 Generative AI Professional
-Infosys Certified: Software Programmer in Python
-ACHIEVEMENTS
+
+**CERTIFICATIONS**
+**Microsoft Certified:** Power BI Data Analyst Associate
+**Oracle Certified:** Oracle Cloud Infrastructure 2024 Generative AI Professional
+**Infosys Certified:** Software Programmer in Python
+
+**ACHIEVEMENTS**
 • Recognized as the Best Innovative Student for developing the “Wi-Fi-Based Egg Hatching Incubator Prototype and
 Application,” while also leading the “Innovation Club” and organizing numerous student’s ideas development activities.
 • Received a national award in painting competition by the National Thermal Power Corporation (NTPC).
 • Awarded for implementing “Home Automation with IoT Sensors” and “Agriculture Based Robots” based projects in real-time.
 • Founded a startup company “LVR Tech Tronics," specializing in developing IoT and engineering projects from theoretical research
 to practical models.
-PROFESSIONAL EXPERIENCE:
-University of North Texas, Business Analyst August 2023 – May 2024
-Project Title: University Data Analytics and Decision Support System
-Project Description: Developed and implemented a comprehensive data analytics and decision support system for a university to
+
+**PROFESSIONAL EXPERIENCE:**
+
+**University of North Texas, Business Analyst August 2023 – May 2024**
+
+**Project Title:** University Data Analytics and Decision Support System
+**Project Description:** Developed and implemented a comprehensive data analytics and decision support system for a university to
 enhance academic and administrative operations, support strategic decision-making, and improve stakeholder collaboration.
-Key Responsibilities and Achievements:
+**Key Responsibilities and Achievements:**
 • Developed and optimized interactive dashboards and reports using Tableau, Power BI, PostgreSQL, SQL, and Atlassian Jira to
 visualize key performance indicators (KPIs), standardize reporting, and support academic and administrative decision-making by
 communicating insights effectively to clients.
@@ -56,12 +64,13 @@ identifying trends, and deriving actionable insights. Additionally, gained famil
 interpretation.
 • Gathered and analysed business requirements through stakeholder sessions, ensuring alignment with analytics solutions while
 creating comprehensive Business Requirement Documents (BRDs). Demonstrated strong analytical, troubleshooting, problemsolving, communication, and teamwork skills throughout these processes.
-Infosys Limited, Data Analyst August 2021 – December 2022
 
-Project Title: Optimizing On-Time In-Full (OTIF) Delivery Performance for E-commerce Supply Chain Support
-Project Description: Analysed and optimized the delivery performance of an e-commerce supply chain by identifying causes of order
+**Infosys Limited, Data Analyst August 2021 – December 2022**
+
+**Project Title:** Optimizing On-Time In-Full (OTIF) Delivery Performance for E-commerce Supply Chain Support
+**Project Description:** Analysed and optimized the delivery performance of an e-commerce supply chain by identifying causes of order
 delays and incomplete deliveries, implementing machine learning models, and developing process improvement strategies.
-Key Responsibilities and Achievements:
+**Key Responsibilities and Achievements:**
 • Analysed causes of order delays and incomplete deliveries by collecting and processing data from multiple sources, including GCP
 BigQuery tables, using Python and SQL for data cleaning and preprocessing.
 • Conducted exploratory data analysis (EDA) using Python (Matplotlib, Seaborn) and visualization tools (Tableau, Power BI,
@@ -75,11 +84,12 @@ processing techniques.
 Google Cloud AutoML models for accuracy and performance improvement.
 • Developed process improvements and real-time dashboards using Python, Tableau, Power BI, and Looker to enhance OTIF
 performance in supply chain operations, implementing feedback loops for continuous refinement.
-Stanvac Systems, Business Analyst June 2020- July 2021
-Project Title: Comprehensive E-commerce Business Performance Analysis and Optimization
-Project Description: Conducted a detailed analysis of an e-commerce business to optimize performance, enhance customer
+
+**Stanvac Systems, Business Analyst June 2020- July 2021**
+**Project Title:** Comprehensive E-commerce Business Performance Analysis and Optimization
+**Project Description:** Conducted a detailed analysis of an e-commerce business to optimize performance, enhance customer
 engagement, and improve operational efficiency through advanced data analytics, machine learning models, and real-time dashboards.
-Key Responsibilities and Achievements:
+**Key Responsibilities and Achievements:**
 • Conducted comprehensive analysis of e-commerce business performance, leveraging data from multiple sources including GCP
 BigQuery, CRM systems, and Web analytics, ensuring data accuracy and integrity using Python (Pandas, NumPy) and SQL for
 data cleaning and preprocessing.
@@ -95,7 +105,8 @@ strategies, enhancing overall sales performance.
 inventory optimization techniques, ensuring product availability.Created and maintained real-time dashboards in Tableau, Power
 BI, and Looker to present key performance indicators (KPIs), business insights, and recommendations to stakeholders, driving
 informed decision-making and operational efficiency.
-ACADEMIC PROJECTS
+
+**ACADEMIC PROJECTS**
 Personalized Healthcare Recommendation System: Developed an advanced healthcare recommendation system that provided
 personalized health advice based on patient data, medical history, and current health trends. Utilized NLP to process unstructured patient
 records and deep learning models (CNNs, RNNs) to analyse medical images and predict health outcomes. Ensured data quality and
@@ -107,6 +118,7 @@ support vector machines to classify transactions, and employed LSTMs and RNNs to
 analysis to analyse transaction data patterns over time. Processed large datasets using HDFS, Hive, Spark, and Scala, and developed
 the models using Python and SQL. Visualized results using Tableau and managed the development process through Agile
 methodologies.
-EDUCATION
+
+**EDUCATION**
 Master of Science in Business Analytics January 2023 – April 2024
 University of North Texas (UNT), Denton, Texas
